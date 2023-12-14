@@ -13,3 +13,18 @@ C:\Users\Websis\source\repos\projeto\projeto\obj\Debug\net8.0\projeto.pdb
 C:\Users\Websis\source\repos\projeto\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
 C:\Users\Websis\source\repos\projeto\projeto\obj\Debug\net8.0\ref\projeto.dll
 C:\Users\Websis\source\repos\projeto\projeto\obj\Debug\net8.0\projeto.sourcelink.json
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\bin\Debug\net8.0\projeto.exe
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\bin\Debug\net8.0\projeto.deps.json
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\bin\Debug\net8.0\projeto.dll
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\bin\Debug\net8.0\projeto.pdb
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.sourcelink.json
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.dll
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\refint\projeto.dll
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.pdb
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+C:\Users\Websis\Documents\Projeto Mercadinho\projetoMercadinho\projeto\projeto\obj\Debug\net8.0\ref\projeto.dll
